@@ -9,4 +9,4 @@ these are codes i wrote as i was learning pytorch.
 
 ## some key takeaways
 
-* defining a custom dataset requires overwriting __len__ and __getitem__ methods
+* defining a custom dataset requires overwriting \_\_len\_\_ and \_\_getitem\_\_ methods
