@@ -12,3 +12,7 @@
 ## some key takeaways
 
 * defining a custom dataset requires overwriting \_\_len\_\_ and \_\_getitem\_\_ methods
+
+# train_dev_split.py
+
+* this is to learn how to split the data into training and dev set using random\_split
