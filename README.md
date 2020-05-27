@@ -6,3 +6,7 @@ these are codes i wrote as i was learning pytorch.
 
 * this code describes how to create a custom dataset in pytorch.
 * the code was influenced by this tutorial: https://www.journaldev.com/36576/pytorch-dataloader
+
+## some key takewaways
+
+* defining a custom dataset requires overwriting __len__ and __getitem__ methods
