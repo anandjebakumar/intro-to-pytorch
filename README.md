@@ -36,3 +36,5 @@
  * the outputs could be either Iris setosa, Iris versicolour, Iris virginica
  
  ![image](./images/iris.jpg)
+ 
+ (image from https://medium.com/@jebaseelanravi96/machine-learning-iris-classification-33aa18a4a983)
