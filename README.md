@@ -20,3 +20,17 @@
 # mlp_binaryClassification.py
 
 * code to do binary classification with a multi layer perceptron (mlp)
+
+# mlp_multiclassClassification.py
+
+* code to do mutli-class classification with a multi layer perceptron (mlp)
+
+## iris dataset
+
+* the dataset has 4 inputs and 1 output
+* the inputs are:
+  * sepal length (cm)
+  * sepal width (cm)
+  * petal length (cm)
+  * petal width (cm)
+ * the outputs could be either Iris setosa, Iris versicolour, Iris virginica
