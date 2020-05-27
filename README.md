@@ -16,3 +16,7 @@
 # train_dev_split.py
 
 * this is to learn how to split the data into training and dev set using random\_split
+
+# mlp_binaryClassification.py
+
+* code to do binary classification with a multi layer perceptron (mlp)
