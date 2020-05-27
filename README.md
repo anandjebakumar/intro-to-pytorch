@@ -1,4 +1,4 @@
-# intro-to-pytorch
+# 1. intro-to-pytorch
 
 * these are codes i wrote as i was learning pytorch
 * i followed this tutorial: https://machinelearningmastery.com/pytorch-tutorial-develop-deep-learning-models/
