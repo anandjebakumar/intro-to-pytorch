@@ -34,3 +34,5 @@
   * petal length (cm)
   * petal width (cm)
  * the outputs could be either Iris setosa, Iris versicolour, Iris virginica
+ 
+ ![image](./images/iris.jpg)
