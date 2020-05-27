@@ -2,6 +2,7 @@
 
 * these are codes i wrote as i was learning pytorch
 * i followed this tutorial: https://machinelearningmastery.com/pytorch-tutorial-develop-deep-learning-models/
+* being a beginner with OOP, so some of the code blocks required more time and effort to follow
 
 # custom_dataset.py
 
