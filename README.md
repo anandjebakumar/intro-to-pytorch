@@ -1,9 +1,7 @@
 # intro-to-pytorch
 
 * these are codes i wrote as i was learning pytorch
-* i followed three main references:
-
-** https://machinelearningmastery.com/pytorch-tutorial-develop-deep-learning-models/
+* i followed this tutorial: https://machinelearningmastery.com/pytorch-tutorial-develop-deep-learning-models/
 
 # custom_dataset.py
 
