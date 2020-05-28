@@ -23,3 +23,13 @@
  ![image](../images/iris.jpg)
  
  (image from https://medium.com/@jebaseelanravi96/machine-learning-iris-classification-33aa18a4a983)
+
+## housing.csv
+
+* has data for regression with mlp
+* data is available at https://raw.githubusercontent.com/jbrownlee/Datasets/master/housing.csv
+* details of the dataset can be found here: https://raw.githubusercontent.com/jbrownlee/Datasets/master/housing.names
+
+* the dataset has 13 inputs and 1 output
+* one of the input is a binary class
+* the rest of the inputs are continuous
