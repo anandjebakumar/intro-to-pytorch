@@ -5,3 +5,9 @@
 * has data for binary classification with mlp
 * data is available at https://raw.githubusercontent.com/jbrownlee/Datasets/master/ionosphere.csv
 * details of the dataset can be found here: https://raw.githubusercontent.com/jbrownlee/Datasets/master/ionosphere.names
+
+## iris.csv
+
+* has data for multi-class classification with mlp
+* data is available at https://raw.githubusercontent.com/jbrownlee/Datasets/master/iris.csv
+* details of the dataset can be found here: https://raw.githubusercontent.com/jbrownlee/Datasets/master/iris.names
