@@ -1,4 +1,3 @@
-test
 # 1. intro-to-pytorch
 
 * these are codes i wrote as i was learning pytorch
@@ -49,3 +48,8 @@ test
 * the dataset has 13 inputs and 1 output
 * one of the input is a binary class
 * the rest of the inputs are continuous
+
+ # 5. cnn_mnist.py
+
+* code to do handwritten digit recognition (MNIST) with a convolutional neural network (CNN)
+* has 2 conv layers and 2 fully connected layers
