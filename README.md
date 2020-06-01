@@ -39,7 +39,7 @@
  
  (image from https://medium.com/@jebaseelanravi96/machine-learning-iris-classification-33aa18a4a983)
  
- # 5. mlp_regression.py
+ # 6. mlp_regression.py
 
 * code to do regression with a multi layer percept
 
@@ -49,7 +49,7 @@
 * one of the input is a binary class
 * the rest of the inputs are continuous
 
- # 5. cnn_mnist.py
+ # 7. cnn_mnist.py
 
 * code to do handwritten digit recognition (MNIST) with a convolutional neural network (CNN)
 * has 2 conv layers and 2 fully connected layers
